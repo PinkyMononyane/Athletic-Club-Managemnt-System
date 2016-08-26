@@ -1,0 +1,23 @@
+C:\Users\TSHEGOFATSO\AppData\Local\Temporary Projects\Club Management System\bin\Debug\Club Management System.exe
+C:\Users\TSHEGOFATSO\AppData\Local\Temporary Projects\Club Management System\bin\Debug\Club Management System.pdb
+C:\Users\TSHEGOFATSO\AppData\Local\Temporary Projects\Club Management System\bin\Debug\Club Management System.xml
+C:\Users\TSHEGOFATSO\AppData\Local\Temporary Projects\Club Management System\obj\x86\Debug\Club_Management_System.Form1.resources
+C:\Users\TSHEGOFATSO\AppData\Local\Temporary Projects\Club Management System\obj\x86\Debug\Club_Management_System.Resources.resources
+C:\Users\TSHEGOFATSO\AppData\Local\Temporary Projects\Club Management System\obj\x86\Debug\Club Management System.vbproj.GenerateResource.Cache
+C:\Users\TSHEGOFATSO\AppData\Local\Temporary Projects\Club Management System\obj\x86\Debug\Club Management System.exe
+C:\Users\TSHEGOFATSO\AppData\Local\Temporary Projects\Club Management System\obj\x86\Debug\Club Management System.xml
+C:\Users\TSHEGOFATSO\AppData\Local\Temporary Projects\Club Management System\obj\x86\Debug\Club Management System.pdb
+C:\Users\TSHEGOFATSO\AppData\Local\Temporary Projects\Club Management System\obj\x86\Debug\Club_Management_System.Form2.resources
+C:\Users\TSHEGOFATSO\AppData\Local\Temporary Projects\Club Management System\obj\x86\Debug\Club_Management_System.Form3.resources
+C:\Users\TSHEGOFATSO\documents\visual studio 2010\Projects\Club Management System\Club Management System\obj\x86\Debug\Club Management System.exe
+C:\Users\TSHEGOFATSO\documents\visual studio 2010\Projects\Club Management System\Club Management System\obj\x86\Debug\Club Management System.xml
+C:\Users\TSHEGOFATSO\documents\visual studio 2010\Projects\Club Management System\Club Management System\obj\x86\Debug\Club Management System.pdb
+C:\Users\TSHEGOFATSO\documents\visual studio 2010\Projects\Club Management System\Club Management System\bin\Debug\Club Management System.exe
+C:\Users\TSHEGOFATSO\documents\visual studio 2010\Projects\Club Management System\Club Management System\bin\Debug\Club Management System.pdb
+C:\Users\TSHEGOFATSO\documents\visual studio 2010\Projects\Club Management System\Club Management System\bin\Debug\Club Management System.xml
+C:\Users\TSHEGOFATSO\documents\visual studio 2010\Projects\Club Management System\Club Management System\obj\x86\Debug\Club_Management_System.Form2.resources
+C:\Users\TSHEGOFATSO\documents\visual studio 2010\Projects\Club Management System\Club Management System\obj\x86\Debug\Club_Management_System.Form1.resources
+C:\Users\TSHEGOFATSO\documents\visual studio 2010\Projects\Club Management System\Club Management System\obj\x86\Debug\Club_Management_System.Form3.resources
+C:\Users\TSHEGOFATSO\documents\visual studio 2010\Projects\Club Management System\Club Management System\obj\x86\Debug\Club_Management_System.Resources.resources
+C:\Users\TSHEGOFATSO\documents\visual studio 2010\Projects\Club Management System\Club Management System\obj\x86\Debug\Club Management System.vbproj.GenerateResource.Cache
+C:\Users\TSHEGOFATSO\documents\visual studio 2010\Projects\Club Management System\Club Management System\obj\x86\Debug\Club_Management_System.Form4.resources
