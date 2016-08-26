@@ -55,94 +55,94 @@ Partial Class Form1
         '
         Me.MenuToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.MemberMaintenanceToolStripMenuItem, Me.EventMaintenanceToolStripMenuItem, Me.EventMaintenanceToolStripMenuItem1, Me.CloseAllToolStripMenuItem, Me.ExitToolStripMenuItem})
         Me.MenuToolStripMenuItem.Name = "MenuToolStripMenuItem"
-        Me.MenuToolStripMenuItem.Size = New System.Drawing.Size(50, 20)
+        Me.MenuToolStripMenuItem.Size = New System.Drawing.Size(58, 24)
         Me.MenuToolStripMenuItem.Text = "Menu"
         '
         'MemberMaintenanceToolStripMenuItem
         '
         Me.MemberMaintenanceToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.AddNewMemberToolStripMenuItem, Me.EditExistingMemberToolStripMenuItem, Me.DeleteMemberToolStripMenuItem})
         Me.MemberMaintenanceToolStripMenuItem.Name = "MemberMaintenanceToolStripMenuItem"
-        Me.MemberMaintenanceToolStripMenuItem.Size = New System.Drawing.Size(191, 22)
+        Me.MemberMaintenanceToolStripMenuItem.Size = New System.Drawing.Size(223, 24)
         Me.MemberMaintenanceToolStripMenuItem.Text = "&Member Maintenance"
         '
         'AddNewMemberToolStripMenuItem
         '
         Me.AddNewMemberToolStripMenuItem.Name = "AddNewMemberToolStripMenuItem"
-        Me.AddNewMemberToolStripMenuItem.Size = New System.Drawing.Size(185, 22)
+        Me.AddNewMemberToolStripMenuItem.Size = New System.Drawing.Size(219, 24)
         Me.AddNewMemberToolStripMenuItem.Text = "&Add New Member"
         '
         'EditExistingMemberToolStripMenuItem
         '
         Me.EditExistingMemberToolStripMenuItem.Name = "EditExistingMemberToolStripMenuItem"
-        Me.EditExistingMemberToolStripMenuItem.Size = New System.Drawing.Size(185, 22)
+        Me.EditExistingMemberToolStripMenuItem.Size = New System.Drawing.Size(219, 24)
         Me.EditExistingMemberToolStripMenuItem.Text = "&Edit Existing Member"
         '
         'DeleteMemberToolStripMenuItem
         '
         Me.DeleteMemberToolStripMenuItem.Name = "DeleteMemberToolStripMenuItem"
-        Me.DeleteMemberToolStripMenuItem.Size = New System.Drawing.Size(185, 22)
+        Me.DeleteMemberToolStripMenuItem.Size = New System.Drawing.Size(219, 24)
         Me.DeleteMemberToolStripMenuItem.Text = "&Delete Member"
         '
         'EventMaintenanceToolStripMenuItem
         '
         Me.EventMaintenanceToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.AddNewEventToolStripMenuItem, Me.ModifyExistingEventToolStripMenuItem, Me.DeleteEventToolStripMenuItem})
         Me.EventMaintenanceToolStripMenuItem.Name = "EventMaintenanceToolStripMenuItem"
-        Me.EventMaintenanceToolStripMenuItem.Size = New System.Drawing.Size(191, 22)
+        Me.EventMaintenanceToolStripMenuItem.Size = New System.Drawing.Size(223, 24)
         Me.EventMaintenanceToolStripMenuItem.Text = "&Event Maintenance"
         '
         'AddNewEventToolStripMenuItem
         '
         Me.AddNewEventToolStripMenuItem.Name = "AddNewEventToolStripMenuItem"
-        Me.AddNewEventToolStripMenuItem.Size = New System.Drawing.Size(187, 22)
+        Me.AddNewEventToolStripMenuItem.Size = New System.Drawing.Size(220, 24)
         Me.AddNewEventToolStripMenuItem.Text = "&Add New Event"
         '
         'ModifyExistingEventToolStripMenuItem
         '
         Me.ModifyExistingEventToolStripMenuItem.Name = "ModifyExistingEventToolStripMenuItem"
-        Me.ModifyExistingEventToolStripMenuItem.Size = New System.Drawing.Size(187, 22)
+        Me.ModifyExistingEventToolStripMenuItem.Size = New System.Drawing.Size(220, 24)
         Me.ModifyExistingEventToolStripMenuItem.Text = "&Modify Existing Event"
         '
         'DeleteEventToolStripMenuItem
         '
         Me.DeleteEventToolStripMenuItem.Name = "DeleteEventToolStripMenuItem"
-        Me.DeleteEventToolStripMenuItem.Size = New System.Drawing.Size(187, 22)
+        Me.DeleteEventToolStripMenuItem.Size = New System.Drawing.Size(220, 24)
         Me.DeleteEventToolStripMenuItem.Text = "&Delete Event"
         '
         'EventMaintenanceToolStripMenuItem1
         '
         Me.EventMaintenanceToolStripMenuItem1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.EnterResultsToolStripMenuItem, Me.EditExistingResultsToolStripMenuItem, Me.DeleteResultsToolStripMenuItem})
         Me.EventMaintenanceToolStripMenuItem1.Name = "EventMaintenanceToolStripMenuItem1"
-        Me.EventMaintenanceToolStripMenuItem1.Size = New System.Drawing.Size(191, 22)
+        Me.EventMaintenanceToolStripMenuItem1.Size = New System.Drawing.Size(223, 24)
         Me.EventMaintenanceToolStripMenuItem1.Text = "Event &Results"
         '
         'EnterResultsToolStripMenuItem
         '
         Me.EnterResultsToolStripMenuItem.Name = "EnterResultsToolStripMenuItem"
-        Me.EnterResultsToolStripMenuItem.Size = New System.Drawing.Size(177, 22)
+        Me.EnterResultsToolStripMenuItem.Size = New System.Drawing.Size(209, 24)
         Me.EnterResultsToolStripMenuItem.Text = "Enter Results"
         '
         'EditExistingResultsToolStripMenuItem
         '
         Me.EditExistingResultsToolStripMenuItem.Name = "EditExistingResultsToolStripMenuItem"
-        Me.EditExistingResultsToolStripMenuItem.Size = New System.Drawing.Size(177, 22)
+        Me.EditExistingResultsToolStripMenuItem.Size = New System.Drawing.Size(209, 24)
         Me.EditExistingResultsToolStripMenuItem.Text = "Edit Existing Results"
         '
         'DeleteResultsToolStripMenuItem
         '
         Me.DeleteResultsToolStripMenuItem.Name = "DeleteResultsToolStripMenuItem"
-        Me.DeleteResultsToolStripMenuItem.Size = New System.Drawing.Size(177, 22)
+        Me.DeleteResultsToolStripMenuItem.Size = New System.Drawing.Size(209, 24)
         Me.DeleteResultsToolStripMenuItem.Text = "Delete Results"
         '
         'CloseAllToolStripMenuItem
         '
         Me.CloseAllToolStripMenuItem.Name = "CloseAllToolStripMenuItem"
-        Me.CloseAllToolStripMenuItem.Size = New System.Drawing.Size(191, 22)
+        Me.CloseAllToolStripMenuItem.Size = New System.Drawing.Size(223, 24)
         Me.CloseAllToolStripMenuItem.Text = "&Close All"
         '
         'ExitToolStripMenuItem
         '
         Me.ExitToolStripMenuItem.Name = "ExitToolStripMenuItem"
-        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(191, 22)
+        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(223, 24)
         Me.ExitToolStripMenuItem.Text = "E&xit"
         '
         'Form1
